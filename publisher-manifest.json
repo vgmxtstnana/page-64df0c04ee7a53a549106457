@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7aa77c1a7227c6c789c5116c",
+  "owner": "vgmxtstnana",
+  "repo": "page-64df0c04ee7a53a549106457",
+  "title": "Crush",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "64df0c04ee7a53a549106457",
+      "a": "Crush",
+      "b": "机场官网线路发布页",
+      "entity": "Crush",
+      "brand": "Crush",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "47eb7fe4cd68d83577dda5a4b8a5600c7ac3d034c8878cdeb9ae58d87e20daaa",
+      "content": {
+        "primary_entity": "Crush",
+        "keyword1": "Crush",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，专注于为跨境访问提供稳定的海外加速线路。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并提供 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备同时在线。年付方案更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。可根据设备数量与流量需求选择合适套餐。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HERO_INTRO": "Crush 提供三档海外加速套餐，覆盖个人到多设备场景，帮助选择合适的订阅周期。",
+          "AI_VISUAL_TITLE": "Crush 海外加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐灵活选择",
+          "AI_HIGHLIGHT_2": "年付更划算更省心",
+          "AI_HIGHLIGHT_3": "多设备同时在线支持",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路特性出发，Crush 套餐覆盖日常浏览、流媒体与游戏加速场景。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月或按年灵活订阅。",
+          "AI_FEATURE_TITLE_2": "设备数量对应",
+          "AI_FEATURE_TEXT_2": "支持 3 台、5 台或 20 台设备同时在线，按常用终端数量挑选。",
+          "AI_FEATURE_TITLE_3": "订阅周期与续费",
+          "AI_FEATURE_TEXT_3": "年付方案折算每月更低，适合长期使用；月付适合短期体验。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "根据手机、电脑或路由器等设备，选择对应的客户端安装订阅，以获得更顺畅的加速体验。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与专线加速，团队版满足多设备高带宽需求。可参考 fixed_plans 中的价格与流量数值进行选择。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先选择服务方案，再确认设备与线路适配要求，最后按客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "结合设备数量与月流量，选定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TEXT_2": "查看客户端支持情况与设备系统要求，确认可正常导入订阅。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端的使用文档，完成订阅导入并连接节点。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Crush 套餐可以更换吗？",
+          "AI_FAQ_ANSWER_1": "可以，根据使用需求在订阅周期内联系支持调整方案，具体规则以购买时说明为准。",
+          "AI_FAQ_QUESTION_2": "三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "区别在月流量、同时在线设备数量与线路特性，旗舰版提供 IPLC 专线游戏加速优化，团队版支持 20 台设备。",
+          "AI_FAQ_QUESTION_3": "年付和月付哪个更合适？",
+          "AI_FAQ_ANSWER_3": "长期使用可选年付，折算每月费用更低；短期体验可以选月付，灵活调整。",
+          "AI_FAQ_QUESTION_4": "支持哪些设备同时在线？",
+          "AI_FAQ_ANSWER_4": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线，覆盖手机、电脑与路由器等常见终端。",
+          "AI_FAQ_QUESTION_5": "如何配置客户端订阅？",
+          "AI_FAQ_ANSWER_5": "按对应客户端的文档导入订阅链接，选择合适节点后即可连接使用；遇到问题可联系支持协助。",
+          "AI_CLOSING_TITLE": "选择适合的套餐",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选择 Crush 套餐，按文档配置订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "0916yt.com",
+    "host": "0916yt.com"
+  },
+  "file_hashes": {
+    "index.html": "a2c64e0f784939d90ad36ad53df4f5df07671b125ca53c652e3ab05a4f2951f5",
+    "sitemap.xml": "9941268d66fcb1bf26c3ea4c6ed87491c75f6e09bef3b8312d92b33dfe3bbade",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "09d93379e105ac81e7bacc58de7c1c2e6a9ddca0efce9c151f01de0eec901620",
+    "robots.txt": "2fe93e348ec3b7fadcd5e0b910f0d62b8fc92d2ea7d3a80977f13139f0df3a25",
+    "29620bf397c691799d55c4e68f4331f5.txt": "6f3a2c1a57d7c784e36a9efbffa481e280bbdc54450a8688102d9643ebb545c1"
+  },
+  "revision": "9de6aca96731a059b7b0c0cbd310948a5c2c36e90a024f06ea7ec342d5dd8ddd"
+}

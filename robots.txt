@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://0916yt.com/sitemap.xml
